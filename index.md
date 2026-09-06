@@ -41,6 +41,10 @@ events:
       location: Mauritiuskirche
       occasion: 14. So. n. Trinitatis
       liturgy_color: green
+cover: cover.jpg
+cover_alt: "Ein köstlich aussehender Burger mit Zwiebel, Tomate, Gurke, Käse und Salat auf einem Holzbrett vor unscharf erkennbaren Pommes Frites udn einem schwarzem Hintergrund"
+audio: audio.mp3
+audio_duration: "13:42"
 ---
 Gnade mit euch und Friede von Gott, dem Vater, und von Jesus Christus, unserem Herrn!
 
